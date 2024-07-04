@@ -19,7 +19,7 @@ https://explorer.solana.com/tx/3QsGmjTa4bt2aLHFDFfaUBELmUaBGfgD1mYCiFjohQuPy7xFb
 
 The files created in this projects include
 ```bash
- keygen.ts - generates a new Keypait
+ keygen.ts - generates a new Keypair
  airdrop.ts - claim token airdrops
  transfer.ts - initiate a transfer to another wallet
  enroll.ts -  interact with the anchor IDL program that WBA has created on the devnet
