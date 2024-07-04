@@ -2,7 +2,10 @@
 # Bridge to Turbin3 Solana development 
 
 Within this project, we create a secret key and public key, request for an airdrop from solana devnet, made a transfer to another wallet and interacted with the program that WBA has created on the devnet
-
+## transaction link for final project verification
+https://explorer.solana.com/tx/xp4sirtQB6FEU7Q7XNsmXaQfdpDWPjoMZcCYqzxoyZHozfe6NrkXsBeA2NGw1xkptnviwhk4V8tSA2PJXkLCVdc?cluster=devnet
+## transaction link for transfer of 0.1 SOL 
+https://explorer.solana.com/tx/3QsGmjTa4bt2aLHFDFfaUBELmUaBGfgD1mYCiFjohQuPy7xFbYPqXv1Uq7F8dieyZeGQ3MUFZ52ChFgwyPXCQ4qo?cluster=devnet
 
 ## Acknowledgements
 
